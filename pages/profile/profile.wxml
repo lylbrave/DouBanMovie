@@ -1,0 +1,4 @@
+<!--pages/profile/profile.wxml-->
+<view class="main">
+  <text class="t">我是一个热爱前端开发的伪sneaker</text>
+</view>

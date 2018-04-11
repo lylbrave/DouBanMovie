@@ -1,0 +1,9 @@
+/* pages/profile/profile.wxss */
+.main{
+  display:flex;
+  justify-content:center;
+}
+.t{
+  font-size:38rpx;
+  color:brown;
+}
